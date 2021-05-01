@@ -1,0 +1,21 @@
+.container {
+    border-radius: 3px;
+    background-color:grey;
+    padding: 20px;
+    border-color: darkslategrey;
+    font-family: cursive;
+  }
+  
+  .col-6 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  .col-12 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+    font-family: cursive;
+  }
+  
